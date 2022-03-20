@@ -8,7 +8,8 @@
 - 교수님과 함께하는 팀 프로젝트여서 많은 것을 배워보자는 취지로 참여하게 됨.
 - 결과보다는 Object Detection 분야 대회에 경험을 얻고자 교수님의 권유로 참가.
 - 데이터 수집과 Object Dection의 전체적인 방향에 대해서 배우는 계기가 되었음.
-- 
+- ![Untitled (1)](https://user-images.githubusercontent.com/63221959/159167475-e95f0749-0775-49ee-8983-c0b75d7cd600.png)
+
 ## 2. 역할 :two_men_holding_hands:
 - 데이터 수집, image 라벨링
 
